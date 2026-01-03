@@ -99,7 +99,7 @@ This helps in understanding how well the model performs and where it makes mista
 ## Project Structure
 
 ```
-opencv-image-classification/
+OpenCV-Image-Classification/
 │
 ├── image_classification.ipynb
 ├── README.md
