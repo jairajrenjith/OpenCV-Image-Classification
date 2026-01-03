@@ -144,3 +144,4 @@ The results demonstrate that traditional ML models can still perform basic image
 - This project serves as a strong foundation before moving to deep learning models like CNNs
 
 ---
+By Jairaj R.
