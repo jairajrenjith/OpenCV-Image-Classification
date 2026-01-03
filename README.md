@@ -54,7 +54,6 @@ The following tools and libraries are used:
 - The CIFAR-10 dataset is loaded using TensorFlow utilities
 - A smaller subset of the dataset is selected for faster execution
 
----
 
 ### 2. Image Preprocessing (OpenCV)
 Each image undergoes the following preprocessing steps:
@@ -64,7 +63,6 @@ Each image undergoes the following preprocessing steps:
 
 These steps make the images suitable for traditional machine learning models.
 
----
 
 ### 3. Image Enhancement
 To better understand image manipulation using OpenCV:
@@ -72,19 +70,16 @@ To better understand image manipulation using OpenCV:
 - Gaussian blur is applied for smoothing
 - Original and enhanced images are displayed side-by-side for comparison
 
----
 
 ### 4. Feature Preparation
 - Preprocessed images are flattened into one-dimensional feature vectors
 - These vectors are used as input to the machine learning model
 
----
 
 ### 5. Model Development
 - A **Support Vector Machine (SVM)** classifier is trained using the processed image data
 - A linear kernel is used for simplicity and clarity
 
----
 
 ### 6. Model Evaluation
 The trained model is evaluated using:
