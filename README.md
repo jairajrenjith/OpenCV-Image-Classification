@@ -114,12 +114,12 @@ OpenCV-Image-Classification/
 
 ## How to Run the Project
 
-Install the required dependencies:
+### 1. Install the required dependencies:
   ```bash
   pip install -r requirements.txt
   ```
 
-Launch the Jupyter Notebook:
+### 2. Launch the Jupyter Notebook:
   ```bash
   jupyter notebook image_classification.ipynb
   ```
